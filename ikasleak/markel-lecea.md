@@ -1,5 +1,5 @@
 # Markel Lecea
 
 - Herria: Urnieta
-- Lengoaia gogokoena: Gaztelania
+- Lengoaia gogokoena: Java
 - Janari gustokoena: Pasta
