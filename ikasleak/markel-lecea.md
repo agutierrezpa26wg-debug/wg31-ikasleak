@@ -2,3 +2,4 @@
 
 - Herria: Urnieta
 - Lengoaia gogokoena: Gaztelania
+- Janari gustokoena: Pasta
